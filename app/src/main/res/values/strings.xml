@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Development Tool</string>
+    <string name="input_hint">Enter your input here</string>
+    <string name="button_submit">Submit</string>
+    <string name="welcome_message">Welcome to the App Development Tool</string>
+    <string name="error_message">An error occurred. Please try again.</string>
+    <string name="loading">Loading...</string>
+</resources>
